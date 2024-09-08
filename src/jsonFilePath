@@ -1,0 +1,75 @@
+{
+  "last_scraped": "2024-09-07T15:27:45.262456484+01:00",
+  "events": [
+    {
+      "title": "Finding Emo ft. RAMS",
+      "date": "24th September ",
+      "location": "Medicine",
+      "category": "Medicine",
+      "description": "Our new resident rock night on campus! Get your air guitars ready to rock out to all the classics from your teen angst phase. From the screamo emos to the indie rockers in chinos, we've got you covered!"
+    },
+    {
+      "title": "PGR Coffee Morning",
+      "date": "27th September ",
+      "location": "Tommy's Lounge",
+      "category": "Communities",
+      "description": "Calling all postgraduate research students, come and mingle over a cuppa at our postgraduate coffee morning. Refreshments will be provided and you’ll be able to find out more about our Postgraduate Research Community at Royal Holloway."
+    },
+    {
+      "title": "Laser Quest",
+      "date": "23rd September ",
+      "location": "SU Venue",
+      "category": "SU Venue",
+      "description": "We're transforming the SU into an apocalyptic wasteland for the afternoon, so gather your best survival team and battle it out head-to-head!"
+    },
+    {
+      "title": "Women's Community Coffee Morning",
+      "date": "26th September ",
+      "location": "Tommy's Lounge",
+      "category": "Communities",
+      "description": "Get involved in one of our Inclusion Communities and meet your Women’s Community Officer over a cuppa!"
+    },
+    {
+      "title": "Fresher's Ball Alternative Social",
+      "date": "28th September ",
+      "location": "Windsor Building",
+      "category": "Health \u0026 Wellbeing",
+      "description": "If the ball isn't quite your style but you still want to celebrate your first week of University, then we've got all the fun you need! Just Dance, movies, games, crafts and more!"
+    },
+    {
+      "title": "Give Ultimate Frisbee a Go",
+      "date": "21st October ",
+      "location": "Sports Hall",
+      "category": "Cost of Living",
+      "description": "Try something new where you can experience the excitement of this fast-paced sport for the first time. Get involved, meet new people, and discover the fun of ultimate frisbee!"
+    },
+    {
+      "title": "Market Day",
+      "date": "24th September ",
+      "location": "SU Venue \u0026 Plaza",
+      "category": "Food and Drink",
+      "description": "It's Market Day every Tuesday at the SU - stock up on fruit and veg at our indoor market and grab a tasty hot lunch from one of our international food stalls on the Union Plaza."
+    },
+    {
+      "title": "Live Music @ The Packhorse",
+      "date": "27th September ",
+      "location": "The Packhorse",
+      "category": "Food and Drink",
+      "description": "Who doesn't love a bit of live music? Pop down to The Packhorse for some Friday night toe-tapping."
+    },
+    {
+      "title": "Freshers' Ball Afterparty",
+      "date": "28th September ",
+      "location": "Medicine",
+      "category": "Medicine",
+      "description": "Can't make it to Freshers' Ball? Or are you ready to keep the party going until you see the sun start to rise? We've got all the tunes you could ever want as we party all the way until 4am!"
+    },
+    {
+      "title": "Give Rounders A Go",
+      "date": "25th October ",
+      "location": "Astro Turf",
+      "category": "Cost of Living",
+      "description": "Revisit a sport you once enjoyed or explore something new! Whether you're looking to rekindle your love for the game or try it for the first time, it’s a great chance to have fun and get active!"
+    }
+  ]
+}

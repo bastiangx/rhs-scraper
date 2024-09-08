@@ -26,3 +26,6 @@ go.work.sum
 
 # notes and logs
 notes/
+
+# bubbles, for now
+bubbles/

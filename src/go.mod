@@ -1,4 +1,4 @@
-module github.com/bastiangx/rhs-scraper
+module github.com/bastiangx/rhs-scraper/src
 
 go 1.23.1
 

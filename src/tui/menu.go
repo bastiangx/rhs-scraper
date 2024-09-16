@@ -13,6 +13,6 @@ func StartApp() {
 	// run the program
 	_, err := p.Run()
 	if err != nil {
-		fmt.Printf("erro starting the TUI: %v\n", err)
+		fmt.Printf("!!!error starting the TUI: %v\n", err)
 	}
 }

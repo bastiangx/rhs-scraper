@@ -29,3 +29,7 @@ notes/
 
 # bubbles, for now
 bubble/
+
+# executables
+src
+main

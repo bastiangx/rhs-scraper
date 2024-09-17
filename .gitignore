@@ -23,13 +23,3 @@ go.work.sum
 
 # env file
 .env
-
-# notes and logs
-notes/
-
-# bubbles, for now
-bubble/
-
-# executables
-src
-main
